@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Xavier-Tse/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/xavier-tse/count.svg?"  />
 </div>
 
 ###
